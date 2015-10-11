@@ -26,11 +26,15 @@ MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. I
 ## Security
 * ?
 
+
 ## References
 * Sample Code
   * https://sakshambhatla.wordpress.com/2014/08/11/simple-mqtt-broker-and-client-in-python/
 * MQTT
+  * RabbitMQ Adapter
+    * https://www.rabbitmq.com/mqtt.html
   * http://mqtt.org/
+  * http://www.embedded101.com/Develop-M2M-IoT-Devices-Ebook
   * Android
     * https://github.com/mqtt/mqtt.github.io/wiki/mqtt_on_the_android_platform
     * http://dalelane.co.uk/blog/?p=1599
