@@ -1,6 +1,15 @@
 # MQTT Client Sample
 Playing with MQTT which I plan to use in my home automation/IOT project.
 
+## MQTT
+MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium
+
+* Simple
+  * TCP Based
+  * Asynchronous
+  * Payload agnostic
+  * Pub/Sub
+
 ## MQTT Server
 * Running RabbitMQ with MQTT Plugin
   * Docker Rabbit MQ with MQTT Plugin enabled
@@ -19,7 +28,11 @@ Playing with MQTT which I plan to use in my home automation/IOT project.
   * https://sakshambhatla.wordpress.com/2014/08/11/simple-mqtt-broker-and-client-in-python/
 * MQTT
   * http://mqtt.org/
+  * Android
+    * https://github.com/mqtt/mqtt.github.io/wiki/mqtt_on_the_android_platform
   * Arduino Library
     * http://pubsubclient.knolleary.net/
     * https://github.com/knolleary/pubsubclient
+  * IOS
+    * https://github.com/mqtt/mqtt.github.io/wiki/mqtt_on_ios
 
